@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omarubilla
 - 👀 I’m interested in XR headsets/wearables, mobile, and social media.
-- 🌱 I’m currently learning Fullstack Web Development, XR SDK such as Banuba and OpenArk.
+- 🌱 I’m currently learning Fullstack Web Development, Cybersecurity, AI/ML, and Edge Computing.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: omar.ubilla@berkeley.edu
 
